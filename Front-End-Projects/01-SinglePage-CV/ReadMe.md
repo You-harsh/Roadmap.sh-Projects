@@ -1,6 +1,6 @@
 # README
 
-[Roadmap Project Link](https://roadmap.sh/projects/single-page-cv)
+https://roadmap.sh/projects/single-page-cv
 
 ---
 
